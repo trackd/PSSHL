@@ -1,0 +1,4 @@
+﻿#config file
+PSSHL.yaml
+#temp directory for openapi gen
+.openapi-generator
